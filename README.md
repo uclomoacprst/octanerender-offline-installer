@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-3D+Rendering-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-GPU+Renderer-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 OctaneRender Free Installer** — OctaneRender is a GPU-accelerated physically-based renderer used in professional visual effects and product visualization. Works without internet access, no account required. Full offline installation.
+**💻 OctaneRender Free Installer** — OctaneRender is a physically based, GPU-accelerated rendering engine for Windows and macOS that produces photorealistic results. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About OctaneRender
 
-OctaneRender is a GPU-accelerated physically-based renderer used in professional visual effects and product visualization. It delivers photorealistic renders in real-time using NVIDIA CUDA technology, with plugins for all major 3D applications.
+OctaneRender is a physically based, GPU-accelerated rendering engine for Windows and macOS that produces photorealistic results. Integrated with Blender, Cinema 4D, 3ds Max, Maya, and other 3D applications via plugins, OctaneRender delivers fast, accurate lighting and materials for product visualization, architectural rendering, and VFX production. Its CUDA-based unbiased rendering produces strikingly realistic results.
 
 ---
 
 ## ❌ Problem: OctaneRender is hard to access
 
-- **NVIDIA Only** — Requires NVIDIA GPU; AMD GPU users cannot use the software
-- **Subscription Cost** — Expensive subscription pricing targets professional studios
-- **VRAM Requirements** — Complex scenes require large amounts of GPU VRAM
-- **Steep Learning Curve** — Physically-based rendering concepts take time to master
+- **NVIDIA Only** — Requires NVIDIA GPU; no AMD GPU support
+- **Commercial License** — Subscription pricing with per-GPU usage fees
+- **Hardware Requirements** — High-end NVIDIA GPU essential for practical render times
+- **Learning Curve** — Physical rendering concepts require understanding of light and materials
 
 ---
 
@@ -121,7 +121,7 @@ OctaneRender is a GPU-accelerated physically-based renderer used in professional
 
 ---
 
-**OctaneRender Free Installer** — OctaneRender is a GPU-accelerated physically-based renderer used in professional visual effects and product visualization. Install without internet connection today!
+**OctaneRender Free Installer** — OctaneRender is a physically based, GPU-accelerated rendering engine for Windows and macOS that produces photorealistic results. Install without internet connection today!
 
 <div align="center">
 
